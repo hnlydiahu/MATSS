@@ -9,6 +9,7 @@ TARGET = 0
 EPSILON = 0.2 # a higher epsilon contributes to a lower segment
 # PLOT_TIMESTEP = [0, 1, 2, 3, 4, 5, 10, 20, 50, 100]
 
+
 class environment:
     def __init__(self, G):
         self.G = G
