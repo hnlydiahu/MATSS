@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="864008ae-9023-4716-be94-4e6f8e6156bc" name="Default Changelist" comment="" />
-=======
     <list default="true" id="864008ae-9023-4716-be94-4e6f8e6156bc" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data_process.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_process.py" afterDir="false" />
     </list>
->>>>>>> ea59e8bea0598a181bbc67db0707ddfa578d6704
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,11 +26,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-<<<<<<< HEAD
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AAID" />
-=======
     <property name="last_opened_file_path" value="$PROJECT_DIR$/dataset" />
->>>>>>> ea59e8bea0598a181bbc67db0707ddfa578d6704
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -165,13 +157,7 @@
       <map>
         <entry key="MAIN">
           <value>
-<<<<<<< HEAD
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-=======
             <State />
->>>>>>> ea59e8bea0598a181bbc67db0707ddfa578d6704
           </value>
         </entry>
       </map>
